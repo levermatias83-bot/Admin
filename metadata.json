@@ -1,0 +1,6 @@
+{
+  "name": "Admisión UNIPOL - Policía Boliviana",
+  "description": "Portal oficial del Proceso de Admisión y Expediente Digital de la Universidad Policial Mcal. Antonio José de Sucre - Policía Boliviana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
